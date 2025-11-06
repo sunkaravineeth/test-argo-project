@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://gitlab/engineering/products/api_security/devops/test-project.git'
+    repoURL: 'https://github.com/sunkaravineeth/test-argo-project.git'
     targetRevision: test-argo
     path: charts/nginx1
     helm:
@@ -29,7 +29,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://gitlab/engineering/products/api_security/devops/test-project.git'
+    repoURL: 'https://github.com/sunkaravineeth/test-argo-project.git'
     targetRevision: test-argo
     path: charts/nginx2
     helm:
